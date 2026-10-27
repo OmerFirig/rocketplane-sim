@@ -1,0 +1,7 @@
+/target
+
+# flight telemetry logs written by the L key
+*.csv
+
+# local development notes
+CLAUDE.txt
